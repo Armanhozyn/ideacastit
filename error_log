@@ -1,0 +1,42 @@
+[23-Oct-2022 06:47:37 UTC] PHP Warning:  require(/home/ideacast/test.ideacastit.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ideacast/test.ideacastit.com/index.php on line 34
+[23-Oct-2022 06:47:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ideacast/test.ideacastit.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ideacast/test.ideacastit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 34
+[23-Oct-2022 06:47:40 UTC] PHP Warning:  require(/home/ideacast/test.ideacastit.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ideacast/test.ideacastit.com/index.php on line 34
+[23-Oct-2022 06:47:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ideacast/test.ideacastit.com/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ideacast/test.ideacastit.com/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 34
+[23-Oct-2022 07:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[23-Oct-2022 07:00:32 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[23-Oct-2022 07:01:12 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[23-Oct-2022 07:01:21 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[23-Oct-2022 07:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[23-Oct-2022 07:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[25-Oct-2022 08:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/ideacast/test.ideacastit.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/test.ideacastit.com/index.php on line 2
+[28-Oct-2022 17:44:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/ideacast/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ideacast/public_html/index.php on line 7
